@@ -1,4 +1,4 @@
-# 🍱 Restaurant Visitor Forecasting
+# 😋 Restaurant Visitor Forecasting
 
 This project forecasts daily visitor counts for restaurants using time series and machine learning techniques. Built as a solution to the [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting) challenge hosted by Recruit Holdings, it simulates a real-world scenario where restaurants must predict customer demand to optimize staffing and ingredient purchasing.
 
