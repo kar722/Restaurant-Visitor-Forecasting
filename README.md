@@ -53,9 +53,9 @@ This project builds a robust time series forecasting pipeline using:
 
 All models are evaluated using **Root Mean Squared Logarithmic Error (RMSLE)**:
 
-\[
-RMSLE = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (\log(p_i + 1) - \log(a_i + 1))^2 }
-\]
+$$
+RMSLE = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} \left( \log(p_i + 1) - \log(a_i + 1) \right)^2 }
+$$
 
 This metric penalizes underestimation more than overestimation and handles skewed visitor distributions well.
 
