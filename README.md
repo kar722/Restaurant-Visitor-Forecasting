@@ -45,7 +45,7 @@ This project builds a robust time series forecasting pipeline using:
 
 ### 4. **Prediction & Submission**
 - Automatically generates predictions for all restaurant/date pairs in the test set.
-- Outputs `submission.csv` in the required format.
+- Outputs `predictions/prediction.csv` in the required format.
 
 ---
 
